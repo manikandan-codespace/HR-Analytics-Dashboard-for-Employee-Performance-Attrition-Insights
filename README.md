@@ -28,11 +28,6 @@ Power Query – Data transformation
 
 DAX – Measures & calculated columns
 
-📁 Project Structure
-├── Data/               # Raw and cleaned datasets
-├── Dashboard/          # Power BI .pbix file
-├── Screenshots/        # Dashboard snapshots
-└── README.md           # Project documentation
 
 📈 Insights Generated
 
